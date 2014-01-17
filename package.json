@@ -1,0 +1,10 @@
+{
+  "name": "ironcache",
+  "version": "0.0.0",
+  "description": "Cache library for Iron.io's cache service",
+  "main": "ironcache.js",
+  "dependencies": {
+    "request": "2.31.0",
+    "underscore": "1.5.2"
+  }
+}
